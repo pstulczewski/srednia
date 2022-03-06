@@ -6,6 +6,6 @@
   
   function srednia_wazona($am $b)
   {
-	  return 0.7*$a + 0.4*$b;
+	  return 0.9*$a + 0.1*$b;
   }
 ?>
